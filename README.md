@@ -146,6 +146,8 @@
 ## 👨‍👨‍👦‍👦 협업
 
 ### 노션 페이지
+![당근이조](https://github.com/Leeeyounghwan/daangn_clone/assets/129285372/8f5e343f-eee2-41e3-a9fc-411dadf95f63)
+<br>
 [ 오르미 2기 당근이조 ](https://danggeun.notion.site/2-954cdd50f936495dabe049c17d5e059a?pvs=4)
 
 ---
