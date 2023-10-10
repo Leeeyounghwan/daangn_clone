@@ -16,9 +16,8 @@
 <div id="1"></div>
 
 ## 💁 웹 서비스 소개
-```이스트소프트 오르미 2기에서 진행한 당근마켓 클론코딩 프로젝트 ```
-
-django와 gpt-3.5-turbo를 이용하여 글 자동 완성 기능 및 챗봇 상담사가 있는 중고 거래 플랫폼
+``` 이스트소프트 오르미 2기에서 진행한 당근마켓 클론코딩 프로젝트 ```
+``` django와 gpt-3.5-turbo를 이용하여 글 자동 완성 기능 및 챗봇 상담사가 있는 중고 거래 플랫폼 ```
 
 ![image](https://github.com/Leeeyounghwan/youtube_clone_potato/assets/129285372/73885528-0efa-4629-9b0a-058ef18e5030)
 
